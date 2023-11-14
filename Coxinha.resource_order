@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":1,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"coxinha1","order":2,"path":"objects/coxinha1/coxinha1.yy",},
+    {"name":"cacto","order":2,"path":"sprites/cacto/cacto.yy",},
+    {"name":"fundo","order":3,"path":"sprites/fundo/fundo.yy",},
+    {"name":"cacto2","order":1,"path":"objects/cacto2/cacto2.yy",},
+    {"name":"pegacoxinha","order":1,"path":"sprites/pegacoxinha/pegacoxinha.yy",},
+  ],
+}
