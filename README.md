@@ -4,7 +4,7 @@
 este é um jogo simples do personagem fictício "coxinha" do programa *Nas Garras da Patrulha*.
 foi feito no programa GameMaker Studio com tutorial do canal GameMaker (fiz pequenas alterações)
 
-video:https://www.youtube.com/watch?v=ypo83R7sIg0&ab_channel=GameMaker
+video: https://www.youtube.com/watch?v=ypo83R7sIg0&ab_channel=GameMaker
 # Objetivo do jogo
 coxinha precisa coletar 5 'coxinhas', para conseguir ganhar e passar para próxima fase. caso toque no cacto, jogo sera resetado e começará contar novamente as coxinhas.
 
