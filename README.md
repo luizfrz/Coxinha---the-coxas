@@ -1,5 +1,4 @@
 # Coxinha-The-Coxas
-> oi
 ![pixil-frame-0 (1)](https://github.com/luizfrz/Coxinha---the-coxas/assets/126346291/96af405e-89ee-4d81-9849-3d73570b0342)
 
 este é um jogo simples do personagem fictício "coxinha" do programa *Nas Garras da Patrulha*.
