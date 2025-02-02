@@ -9,7 +9,6 @@ Este é um jogo simples do personagem fictício "coxinha" do programa *Nas Garra
 coxinha precisa coletar 5 'coxinhas', para conseguir ganhar e passar para próxima fase. caso toque no cacto, jogo sera resetado e começará contar novamente as coxinhas.
 
 # Foto
-
 ![Captura de tela 2023-11-14 140430](https://github.com/luizfrz/Coxinha---the-coxas/assets/126346291/892287aa-e6aa-4c5e-a33f-23de83f40f9e)
 
 # Video
